@@ -1,0 +1,20 @@
+{
+  "private_key": "fac669f23ff6d3b8e5799a941b50540f47af1090cf5d4808a6f0d1f1306663e4",
+  "public_key": "79b92b6b6cbc5cc8af6dbb62ade9717a8328674f0cc7c49f6c58caa4851ec54e",
+  "relays": [
+    "wss://relay.damus.io",
+    "wss://eden.nostr.land",
+    "wss://nostr.wine"
+  ],
+  "profile": {
+    "name": "robot.tegila",
+    "display_name": "robot.tegila.js",
+    "website": "melhorque.com.br",
+    "nip05": "robot.tegila@melhorque.com.br",
+    "picture": "https://t.ly/OqkK",
+    "about": "parrot account",
+    "lud16": "parrot@ln.tips"
+  },
+  "nsec": "nsec1ltrxnu3l7mfm3eten22pk5z5par67yyseaw5sz9x7rglzvrxv0jqd9t3yd",
+  "npub": "npub10xujk6mvh3wv3tmdhd32m6t302pjse60pnruf8mvtr92fpg7c48qe90dd5"
+}
